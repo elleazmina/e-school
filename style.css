@@ -1,0 +1,54 @@
+.container{
+    margin-bottom: 100px;
+}
+.nav-link{
+    color: rgb(0, 0, 0);
+}
+.sign-in{
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    width: 100px;
+    height: 40px;
+}
+#red{
+    color: red;
+}
+#black{
+    color: black;
+    font-weight: 700;
+}
+#green{
+    color: green;
+}
+.get-started{
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    width: 120px;
+    height: 40px;
+}
+.cat1, .cat2, .cat3, .cat4{
+    padding: 40px 20px;
+    border-radius: 15px;
+    box-shadow:5px 5px 10px lightgray;
+    background-color: whitesmoke;
+    
+}
+.cat1:hover{
+    background-color: white;
+}
+.cat2:hover{
+    background-color: white;
+}
+.cat3:hover{
+    background-color: white;
+}
+.cat4:hover{
+    background-color: white;
+}
+.categories img{
+    width: 50px;
+}
