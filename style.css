@@ -1,8 +1,11 @@
+.lemon-background{
+    background-color:rgb(217, 235, 223);
+}
 .container{
     margin-bottom: 100px;
 }
 .nav-link{
-    color: rgb(0, 0, 0);
+    color: black;
 }
 .sign-in{
     background-color: green;
@@ -12,8 +15,12 @@
     width: 100px;
     height: 40px;
 }
+.sign-in:hover{
+    font-weight: 700;
+}
 #red{
     color: red;
+    font-weight: 500;
 }
 #black{
     color: black;
@@ -29,6 +36,9 @@
     border-radius: 20px;
     width: 120px;
     height: 40px;
+}
+.get-started:hover{
+    font-weight: 700;
 }
 .cat1, .cat2, .cat3, .cat4{
     padding: 40px 20px;
@@ -51,6 +61,12 @@
 }
 .categories img{
     width: 50px;
+}
+.card{
+    border-radius: 10px;
+}
+.card:hover{
+    background-color: whitesmoke;
 }
 .card img{
     width: 300px;
@@ -79,4 +95,8 @@ footer{
     text-align: center;
     padding-top: 30px;
     padding-bottom: 20px;
+}
+
+.card-footer{
+    border: none;
 }
