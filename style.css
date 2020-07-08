@@ -52,3 +52,31 @@
 .categories img{
     width: 50px;
 }
+.card img{
+    width: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    
+}
+
+.footer img{
+    width: 30px;
+    height: 25px;
+    margin: 0;
+}
+.man img{
+    width: 80px;
+    height: 80px;
+    
+}
+.background{
+    background-color: black;
+    color: white;
+    padding: 40px 70px 0 40px;
+}
+footer{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
